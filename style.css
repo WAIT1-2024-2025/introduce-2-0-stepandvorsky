@@ -1,0 +1,31 @@
+div.mezera {
+    text-align: end;
+}
+
+
+.vitkovicka {
+    align-items: center;
+    width: 50%; 
+    height: 50%;
+    display: block; 
+    max-width: 100%;  
+    justify-content: center;  
+  }
+
+.do_prava {
+    margin-left: 50px;
+    margin-top: 20px; 
+}
+
+body {
+    background-image: url(Vitkovickastredni\ foto.jpg);
+    background-size: cover;
+    background-blend-mode: hard-light;
+    color: white;
+}
+
+ul {
+    display: inline;
+    
+
+}
